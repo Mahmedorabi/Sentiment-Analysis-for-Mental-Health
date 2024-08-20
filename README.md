@@ -1,18 +1,5 @@
 # Sentiment Analysis for Mental Health
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Dataset](#dataset)
-3. [Steps and Workflow](#steps-and-workflow)
-    1. [Importing Libraries](#1-importing-libraries)
-    2. [Reading the Dataset](#2-reading-the-dataset:)
-6. [Model Building](#model-building)
-    1. [Creating the Model](#1-creating-the-model)
-    2. [Compiling and Training the Model](#2-compiling-and-training-the-model)
-7. [Model Evaluation and Visualization](#model-evaluation-and-visualization)
-    1. [Evaluating the Model](#1-evaluating-the-model)
-    2. [Visualizing Training Loss](#2-visualizing-training-loss)
-    3. [Plotting True vs. Predicted Values](#3-plotting-true-vs-predicted-values)
-9. [Conclusion](#conclusion)
+
 
 
 ## Project Overview

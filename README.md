@@ -1,7 +1,7 @@
 # Sentiment Analysis for Mental Health
 ## [Project Overview](#project-overview)
 ## [Dataset](#dataset)
-## [Steps and Workflow](#step-and-workflow)
+## [Steps and Workflow](#steps-and-workflow)
    ### [Importing Libraries](#importing-libraries)
 
 ## Project Overview

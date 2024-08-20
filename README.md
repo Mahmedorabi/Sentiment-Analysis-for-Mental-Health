@@ -1,5 +1,8 @@
 # Sentiment Analysis for Mental Health
 ## [Project Overview](#project-overview)
+## [Dataset](#dataset)
+## [Steps and Workflow](#step-and-workflow)
+   ### [Importing Libraries](#importing-libraries)
 
 ## Project Overview
 This project aims to perform sentiment analysis on mental health-related data using various machine learning and deep learning techniques. The primary goal is to classify text data into different sentiment categories, providing insights into mental health trends.
